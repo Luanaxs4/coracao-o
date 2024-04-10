@@ -8,6 +8,7 @@ body {
     background-color: black;
 }
 
+
 .coracao{
     height: 250px;
     width: 250px;
@@ -55,15 +56,17 @@ button{
 }
 
 img{
-    position: absolute;
-    width: 190px;
-    height: 190px;
-    border-radius: 20%;
+    position:absolute;
+    width: 180px;
+    height: 180px;
+    border-radius: 10%;
     box-shadow: 20px 20px 250px #f20044;
 }
 
 h2{
-    position: absolute;
+    position:absolute;
     color: white;
-    margin-top: 250px;
+    margin-top: -250px;
+    font-size: 20px;
+    text-align:center;
 }
